@@ -26,16 +26,12 @@
 
 Este repositório armazena o histórico de atividades práticas, laboratórios e projetos integradores desenvolvidos na disciplina de **Linguagem de Programação 1 (LP1)**. O foco acadêmico reside na transição da programação estruturada para a **Programação Orientada a Objetos (POO)** utilizando o padrão moderno da linguagem C++.
 
-As implementações seguem rigorosos critérios de alocação de memória, organização de cabeçalhos (`.h`) e arquivos de implementação (`.cpp`), além da automação de builds.
-
-
-
 ### Tecnologias e Ferramentas
 
 | Categoria | Tecnologia |
 | :--- | :--- |
-| **Linguagem** | C++11 / C++17 |
-| **Compilador** | GCC / G++ |
+| **Linguagem** | C++ |
+| **Compilador** | OnlineGDB / G++ |
 
 ---
 
@@ -53,12 +49,12 @@ Para replicar o ambiente de desenvolvimento e executar os binários:
 
 1.  **Clonar o repositório**
     ```bash
-    git clone [https://github.com/seu_usuario/lp1-imd.git](https://github.com/seu_usuario/lp1-imd.git)
+    git clone [https://github.com/marisout0/LP1---ATIVIDADES.git](https://github.com/marisout0/LP1---ATIVIDADES.git)
     ```
 
 2.  **Compilar via Makefile (recomendado)**
     ```bash
-    cd lp1-imd/projeto_exemplo
+    cd sua_pasta/projeto_exemplo
     make
     ```
 
